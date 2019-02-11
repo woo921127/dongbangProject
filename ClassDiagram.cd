@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="randomFunction" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABEAA=</HashCode>
+      <FileName>randomFunction.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gameNode" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAgAQAAQBAEAAAAAABAAAAQAICAAAAAAAUAAA=</HashCode>
+      <FileName>gameNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="singletonBase&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAACEAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>singletonBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="imageManager" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAEAQAgAAAAAAACAEAAQAAAAAIAAAIAAAAQICA=</HashCode>
+      <FileName>imageManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keyManager" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAIACAAEAAEEAAAAQAAAAAACIBAAIACACAAAA=</HashCode>
+      <FileName>keyManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="backBuffer" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAgAAAAAAAAAAAAAAAAIAAAAIAAAEAAAEQAAA=</HashCode>
+      <FileName>backBuffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="image" Collapsed="true">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAgRCAFEYAAAAGAAJAGAAAgAKAYAAAAEAUAAA=</HashCode>
+      <FileName>image.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="playGround" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACCAAAABABAAAAAAAAAAAAAAAAAAAIAAAAAAAAUAAA=</HashCode>
+      <FileName>playGround.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spaceShip" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAABAABAAAAEABQAAAAAAAAAAAIMAAAEAAAUAAA=</HashCode>
+      <FileName>spaceShip.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bullet" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAQAQAAAAAAAAAAEAAAAABAAADAAAJAABAAKAIUAAA=</HashCode>
+      <FileName>bullets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="missile" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAAAACAEAAAAAAAAAAAAAIABAAAJAIUAAA=</HashCode>
+      <FileName>bullets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spear" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAABAAACAEAAAAAAAAEAAACIABAAGMAIUAAA=</HashCode>
+      <FileName>bullets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemy" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAACCABCAAAASAABIAEAAAAJAgAgJABCCECAAUQAI=</HashCode>
+      <FileName>enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemyManager" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAgAAAAAAAAIBAACBAIIAAAUBQAIAAAABCgAUIAA=</HashCode>
+      <FileName>enemyManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="minion" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>minion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="minion2" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>minion2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="POINTF" Collapsed="true">
+    <Position X="21" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>commonMacroFunction.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="POINTD" Collapsed="true">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>commonMacroFunction.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagBullet" Collapsed="true">
+    <Position X="19.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAgAECAAAAAAABABCAAAAAAAAAQAAAABgAABAAAA=</HashCode>
+      <FileName>bullets.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ENEMYTYPE" Collapsed="true">
+    <Position X="21" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAACAAAAAAAIAACAAAAAAAAQABAAAA=</HashCode>
+      <FileName>enemy.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="STAGE" Collapsed="true">
+    <Position X="19.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAQAAEAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>enemyManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BULFIRE" Collapsed="true">
+    <Position X="19.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAgAoA=</HashCode>
+      <FileName>enemyManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
